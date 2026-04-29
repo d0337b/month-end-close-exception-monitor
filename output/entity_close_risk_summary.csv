@@ -1,0 +1,9 @@
+entity_name,region,business_unit,total_task_count,completed_task_count,overdue_task_count,unresolved_exception_count,delayed_approval_count,avg_task_delay_days,high_priority_task_count,entity_risk_flag
+Korea HQ,APAC,Consumer,6,3,4,8,3,6.833,3,High Risk
+US East Entity,North America,Consumer,6,3,4,4,3,6.833,3,High Risk
+US West Entity,North America,Platform,6,3,4,4,3,6.833,3,High Risk
+Germany GmbH,Europe,Enterprise,6,5,3,1,0,1.833,0,High Risk
+Japan Subsidiary,APAC,Enterprise,6,5,3,1,0,1.833,0,High Risk
+Singapore Services,APAC,Platform,6,6,1,0,0,0.333,0,Medium Risk
+UK Services,Europe,Platform,6,5,1,1,1,1.667,0,Medium Risk
+Australia Branch,APAC,Consumer,6,6,0,0,0,0.0,0,Low Risk

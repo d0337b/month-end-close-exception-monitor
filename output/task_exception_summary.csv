@@ -1,0 +1,49 @@
+task_id,entity_name,region,business_unit,task_name,task_category,owner_name,team_name,scheduled_close_date,actual_close_date,task_status,task_delay_days,overdue_task_flag,requires_approval,approval_status,approval_delay_flag,unresolved_exception_count,highest_exception_severity,priority_review_flag
+1001,Korea HQ,APAC,Consumer,Journal Entry Review,Journal Entry,Minji Kim,Close Ops,2026-04-01,,In Progress,14.0,Yes,Yes,Pending,Yes,2,High,Yes
+1025,US East Entity,North America,Consumer,Journal Entry Review,Journal Entry,Yuna Jung,Reconciliation,2026-04-01,,In Progress,14.0,Yes,Yes,Pending,Yes,1,High,Yes
+1019,US West Entity,North America,Platform,Journal Entry Review,Journal Entry,Soojin Park,Intercompany,2026-04-01,,In Progress,14.0,Yes,Yes,Pending,Yes,1,High,Yes
+1002,Korea HQ,APAC,Consumer,Account Reconciliation,Reconciliation,Jisoo Lee,Financial Reporting,2026-04-02,,In Progress,13.0,Yes,Yes,Pending,Yes,2,High,Yes
+1026,US East Entity,North America,Consumer,Account Reconciliation,Reconciliation,Jihoon Seo,Close Ops,2026-04-02,,In Progress,13.0,Yes,Yes,Pending,Yes,1,High,Yes
+1020,US West Entity,North America,Platform,Account Reconciliation,Reconciliation,Yuna Jung,Reconciliation,2026-04-02,,In Progress,13.0,Yes,Yes,Pending,Yes,1,High,Yes
+1004,Korea HQ,APAC,Consumer,Intercompany Tie-out,Intercompany,Soojin Park,Intercompany,2026-04-04,,Not Started,11.0,Yes,No,Not Required,No,2,High,Yes
+1028,US East Entity,North America,Consumer,Intercompany Tie-out,Intercompany,Donghyun Ahn,Controllership,2026-04-04,,Not Started,11.0,Yes,No,Not Required,No,1,High,Yes
+1022,US West Entity,North America,Platform,Intercompany Tie-out,Intercompany,Hyejin Kwon,Financial Reporting,2026-04-04,,Not Started,11.0,Yes,No,Not Required,No,1,Medium,Yes
+1041,UK Services,Europe,Platform,Financial Statement Draft,Financial Reporting,Hyunwoo Choi,Controllership,2026-04-05,,In Progress,10.0,Yes,Yes,Pending,Yes,0,None,Yes
+1036,Germany GmbH,Europe,Enterprise,Variance Analysis Review,Variance Analysis,Hyunwoo Choi,Controllership,2026-04-06,,In Progress,9.0,Yes,No,Not Required,No,0,None,Yes
+1012,Japan Subsidiary,APAC,Enterprise,Variance Analysis Review,Variance Analysis,Hyejin Kwon,Financial Reporting,2026-04-06,,In Progress,9.0,Yes,No,Not Required,No,0,None,Yes
+1005,Korea HQ,APAC,Consumer,Financial Statement Draft,Financial Reporting,Yuna Jung,Reconciliation,2026-04-05,2026-04-08,Completed,3.0,Yes,Yes,Approved,Yes,2,Medium,Yes
+1029,US East Entity,North America,Consumer,Financial Statement Draft,Financial Reporting,Minji Kim,Close Ops,2026-04-05,2026-04-08,Completed,3.0,Yes,Yes,Approved,Yes,1,High,Yes
+1023,US West Entity,North America,Platform,Financial Statement Draft,Financial Reporting,Donghyun Ahn,Controllership,2026-04-05,2026-04-08,Completed,3.0,Yes,Yes,Approved,Yes,1,High,Yes
+1015,Singapore Services,APAC,Platform,Accrual Validation,Accrual Review,Yuna Jung,Reconciliation,2026-04-03,2026-04-05,Completed,2.0,Yes,No,Not Required,No,0,None,Yes
+1032,Germany GmbH,Europe,Enterprise,Account Reconciliation,Reconciliation,Hyejin Kwon,Financial Reporting,2026-04-02,2026-04-03,Completed,1.0,Yes,Yes,Approved,No,1,Medium,Yes
+1033,Germany GmbH,Europe,Enterprise,Accrual Validation,Accrual Review,Donghyun Ahn,Controllership,2026-04-03,2026-04-04,Completed,1.0,Yes,No,Not Required,No,0,None,Yes
+1008,Japan Subsidiary,APAC,Enterprise,Account Reconciliation,Reconciliation,Hyunwoo Choi,Controllership,2026-04-02,2026-04-03,Completed,1.0,Yes,Yes,Approved,No,1,Low,Yes
+1009,Japan Subsidiary,APAC,Enterprise,Accrual Validation,Accrual Review,Soojin Park,Intercompany,2026-04-03,2026-04-04,Completed,1.0,Yes,No,Not Required,No,0,None,Yes
+1038,UK Services,Europe,Platform,Account Reconciliation,Reconciliation,Donghyun Ahn,Controllership,2026-04-02,2026-04-02,Completed,0.0,No,Yes,Approved,No,1,Medium,Yes
+1043,Australia Branch,APAC,Consumer,Journal Entry Review,Journal Entry,Donghyun Ahn,Controllership,2026-04-01,2026-04-01,Completed,0.0,No,Yes,Approved,No,0,None,No
+1044,Australia Branch,APAC,Consumer,Account Reconciliation,Reconciliation,Minji Kim,Close Ops,2026-04-02,2026-04-02,Completed,0.0,No,Yes,Approved,No,0,None,No
+1045,Australia Branch,APAC,Consumer,Accrual Validation,Accrual Review,Jisoo Lee,Financial Reporting,2026-04-03,2026-04-03,Completed,0.0,No,No,Not Required,No,0,None,No
+1046,Australia Branch,APAC,Consumer,Intercompany Tie-out,Intercompany,Hyunwoo Choi,Controllership,2026-04-04,2026-04-04,Completed,0.0,No,No,Not Required,No,0,None,No
+1047,Australia Branch,APAC,Consumer,Financial Statement Draft,Financial Reporting,Soojin Park,Intercompany,2026-04-05,2026-04-05,Completed,0.0,No,Yes,Approved,No,0,None,No
+1048,Australia Branch,APAC,Consumer,Variance Analysis Review,Variance Analysis,Yuna Jung,Reconciliation,2026-04-06,2026-04-06,Completed,0.0,No,No,Not Required,No,0,None,No
+1031,Germany GmbH,Europe,Enterprise,Journal Entry Review,Journal Entry,Jihoon Seo,Close Ops,2026-04-01,2026-04-01,Completed,0.0,No,Yes,Approved,No,0,None,No
+1034,Germany GmbH,Europe,Enterprise,Intercompany Tie-out,Intercompany,Minji Kim,Close Ops,2026-04-04,2026-04-04,Completed,0.0,No,No,Not Required,No,0,None,No
+1035,Germany GmbH,Europe,Enterprise,Financial Statement Draft,Financial Reporting,Jisoo Lee,Financial Reporting,2026-04-05,2026-04-05,Completed,0.0,No,Yes,Approved,No,0,None,No
+1007,Japan Subsidiary,APAC,Enterprise,Journal Entry Review,Journal Entry,Jisoo Lee,Financial Reporting,2026-04-01,2026-04-01,Completed,0.0,No,Yes,Approved,No,0,None,No
+1010,Japan Subsidiary,APAC,Enterprise,Intercompany Tie-out,Intercompany,Yuna Jung,Reconciliation,2026-04-04,2026-04-04,Completed,0.0,No,No,Not Required,No,0,None,No
+1011,Japan Subsidiary,APAC,Enterprise,Financial Statement Draft,Financial Reporting,Jihoon Seo,Close Ops,2026-04-05,2026-04-05,Completed,0.0,No,Yes,Approved,No,0,None,No
+1003,Korea HQ,APAC,Consumer,Accrual Validation,Accrual Review,Hyunwoo Choi,Controllership,2026-04-03,2026-04-03,Completed,0.0,No,No,Not Required,No,0,None,No
+1006,Korea HQ,APAC,Consumer,Variance Analysis Review,Variance Analysis,Jihoon Seo,Close Ops,2026-04-06,2026-04-06,Completed,0.0,No,No,Not Required,No,0,None,No
+1013,Singapore Services,APAC,Platform,Journal Entry Review,Journal Entry,Hyunwoo Choi,Controllership,2026-04-01,2026-04-01,Completed,0.0,No,Yes,Approved,No,0,None,No
+1014,Singapore Services,APAC,Platform,Account Reconciliation,Reconciliation,Soojin Park,Intercompany,2026-04-02,2026-04-02,Completed,0.0,No,Yes,Approved,No,0,None,No
+1016,Singapore Services,APAC,Platform,Intercompany Tie-out,Intercompany,Jihoon Seo,Close Ops,2026-04-04,2026-04-04,Completed,0.0,No,No,Not Required,No,0,None,No
+1017,Singapore Services,APAC,Platform,Financial Statement Draft,Financial Reporting,Hyejin Kwon,Financial Reporting,2026-04-05,2026-04-05,Completed,0.0,No,Yes,Approved,No,0,None,No
+1018,Singapore Services,APAC,Platform,Variance Analysis Review,Variance Analysis,Donghyun Ahn,Controllership,2026-04-06,2026-04-06,Completed,0.0,No,No,Not Required,No,0,None,No
+1037,UK Services,Europe,Platform,Journal Entry Review,Journal Entry,Hyejin Kwon,Financial Reporting,2026-04-01,2026-04-01,Completed,0.0,No,Yes,Approved,No,0,None,No
+1039,UK Services,Europe,Platform,Accrual Validation,Accrual Review,Minji Kim,Close Ops,2026-04-03,2026-04-03,Completed,0.0,No,No,Not Required,No,0,None,No
+1040,UK Services,Europe,Platform,Intercompany Tie-out,Intercompany,Jisoo Lee,Financial Reporting,2026-04-04,2026-04-04,Completed,0.0,No,No,Not Required,No,0,None,No
+1042,UK Services,Europe,Platform,Variance Analysis Review,Variance Analysis,Soojin Park,Intercompany,2026-04-06,2026-04-06,Completed,0.0,No,No,Not Required,No,0,None,No
+1027,US East Entity,North America,Consumer,Accrual Validation,Accrual Review,Hyejin Kwon,Financial Reporting,2026-04-03,2026-04-03,Completed,0.0,No,No,Not Required,No,0,None,No
+1030,US East Entity,North America,Consumer,Variance Analysis Review,Variance Analysis,Jisoo Lee,Financial Reporting,2026-04-06,2026-04-06,Completed,0.0,No,No,Not Required,No,0,None,No
+1021,US West Entity,North America,Platform,Accrual Validation,Accrual Review,Jihoon Seo,Close Ops,2026-04-03,2026-04-03,Completed,0.0,No,No,Not Required,No,0,None,No
+1024,US West Entity,North America,Platform,Variance Analysis Review,Variance Analysis,Minji Kim,Close Ops,2026-04-06,2026-04-06,Completed,0.0,No,No,Not Required,No,0,None,No
