@@ -69,7 +69,6 @@ SQL 기반 리스크 기준을 적용하여 다음 3단계로 분석합니다.
 
 ```text
 month-end-close-exception-monitor/
-├── practice.db
 ├── setup_data.py
 ├── main.py
 ├── docs/
