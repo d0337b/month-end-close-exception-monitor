@@ -73,7 +73,9 @@ month-end-close-exception-monitor/
 ├── main.py
 ├── docs/
 │   ├── process_overview.md
-│   └── control_matrix.md
+│   ├── control_matrix.md
+│   ├── ai_usage_note.md
+│   └── power_bi_dashboard_plan.md
 ├── output/
 │   ├── task_exception_summary.csv
 │   ├── entity_close_risk_summary.csv
@@ -169,6 +171,9 @@ close task 담당자 및 팀 정보를 담는 마스터 테이블입니다.
 
 - `docs/ai_usage_note.md`  
   SQL/Python output을 기반으로 AI-generated management commentary를 생성할 수 있는 구조와, human-in-the-loop 검토 원칙을 설명합니다.
+
+- `docs/power_bi_dashboard_plan.md`  
+  SQL/Python output을 Power BI dashboard로 확장할 때의 page structure, dataset mapping, KPI 구성, visual design 방향을 설명합니다.
 
 이 문서들은 프로젝트가 단순 SQL 연습이 아니라,  
 회계·재무 업무 프로세스를 데이터 구조와 reporting output으로 번역하는 과정을 보여주기 위해 작성했습니다.
